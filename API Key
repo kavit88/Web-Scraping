@@ -1,0 +1,4 @@
+url = "http://api.openweathermap.org/geo/1.0/direct?q=Ahmedabad&appid=be03a4290a870f310fcd9b8fffe657a3"
+import requests
+response = requests.get(url)
+response
