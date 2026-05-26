@@ -1,0 +1,2130 @@
+[
+    {
+        "id": 1,
+        "enrol no": 24002200000000.0,
+        "name": "AAGAM DILIPBHAI SHAH",
+        "roll no": 137,
+        "marks": "20"
+    },
+    {
+        "id": 2,
+        "enrol no": 24002200000000.0,
+        "name": "APARNATHI YAKSHGIRI HIRENGIRI",
+        "roll no": 229,
+        "marks": "15"
+    },
+    {
+        "id": 3,
+        "enrol no": 24002200000000.0,
+        "name": "ARYA JAY BHARATBHAI",
+        "roll no": 227,
+        "marks": "11.5"
+    },
+    {
+        "id": 4,
+        "enrol no": 24002200000000.0,
+        "name": "BHARTY MARIYA ABDUL RAFEY",
+        "roll no": 54,
+        "marks": "20.5"
+    },
+    {
+        "id": 5,
+        "enrol no": 24002200000000.0,
+        "name": "BHUVA MEK SHIRISHBHAI",
+        "roll no": 240,
+        "marks": "11"
+    },
+    {
+        "id": 6,
+        "enrol no": 24002200000000.0,
+        "name": "BHUVA KRISA GOVINDBHAI",
+        "roll no": 238,
+        "marks": "11"
+    },
+    {
+        "id": 7,
+        "enrol no": 24002200000000.0,
+        "name": "CHHODAVADIA FEEL HARSHADBHAI",
+        "roll no": 105,
+        "marks": "19"
+    },
+    {
+        "id": 8,
+        "enrol no": 24002200000000.0,
+        "name": "DARJI VISHWAM NIRAV",
+        "roll no": 68,
+        "marks": "17"
+    },
+    {
+        "id": 9,
+        "enrol no": 24002200000000.0,
+        "name": "DHAKECHA PRINCE PRAVINBHAI",
+        "roll no": 259,
+        "marks": "12.5"
+    },
+    {
+        "id": 10,
+        "enrol no": 24002200000000.0,
+        "name": "DHOLA DENISH GORDHANBHAI",
+        "roll no": 113,
+        "marks": "23.5"
+    },
+    {
+        "id": 11,
+        "enrol no": 24002200000000.0,
+        "name": "DHORAJIYA ISHAN SURESHBHAI",
+        "roll no": 192,
+        "marks": "18"
+    },
+    {
+        "id": 12,
+        "enrol no": 24002200000000.0,
+        "name": "DHRUV SOM",
+        "roll no": 24,
+        "marks": "20"
+    },
+    {
+        "id": 13,
+        "enrol no": 24002200000000.0,
+        "name": "GOSWAMI BHAVISHYA RAKESHGIRI",
+        "roll no": 299,
+        "marks": "12.5"
+    },
+    {
+        "id": 14,
+        "enrol no": 24002200000000.0,
+        "name": "HIRANI YASHVI JIGESHKUMAR",
+        "roll no": 10,
+        "marks": "22"
+    },
+    {
+        "id": 15,
+        "enrol no": 24002200000000.0,
+        "name": "JADAV KRISHNA KIRANKUMAR",
+        "roll no": 34,
+        "marks": "18"
+    },
+    {
+        "id": 16,
+        "enrol no": 24002200000000.0,
+        "name": "KADIYA AYUSH HIRENKUMAR",
+        "roll no": 4,
+        "marks": "22.5"
+    },
+    {
+        "id": 17,
+        "enrol no": 24002200000000.0,
+        "name": "KALAL DHRUVIBEN BHARATBHAI",
+        "roll no": 108,
+        "marks": "17"
+    },
+    {
+        "id": 18,
+        "enrol no": 24002200000000.0,
+        "name": "KOHAD KARTIK RAKESHBHAI",
+        "roll no": 185,
+        "marks": "21"
+    },
+    {
+        "id": 19,
+        "enrol no": 24002200000000.0,
+        "name": "KOLADIYA VRAJ KISHORBHAI",
+        "roll no": 187,
+        "marks": "19"
+    },
+    {
+        "id": 20,
+        "enrol no": 24002200000000.0,
+        "name": "KORIYA AVI MANOJBHAI",
+        "roll no": 252,
+        "marks": "9"
+    },
+    {
+        "id": 21,
+        "enrol no": 24002200000000.0,
+        "name": "KUKADIYA VED MUKESHBHAI",
+        "roll no": 202,
+        "marks": "19.5"
+    },
+    {
+        "id": 22,
+        "enrol no": 24002200000000.0,
+        "name": "LUNAGARIYA HINAV HIMMATBHAI",
+        "roll no": 193,
+        "marks": "16.5"
+    },
+    {
+        "id": 23,
+        "enrol no": 24002200000000.0,
+        "name": "MAGTARPARA PRINCE DINESHBHAI",
+        "roll no": 149,
+        "marks": "16"
+    },
+    {
+        "id": 24,
+        "enrol no": 24002200000000.0,
+        "name": "MANTHAN JAIN",
+        "roll no": 138,
+        "marks": "21"
+    },
+    {
+        "id": 25,
+        "enrol no": 24002200000000.0,
+        "name": "MENDAPARA TIRTH RAJESHKUMAR",
+        "roll no": 35,
+        "marks": "18"
+    },
+    {
+        "id": 26,
+        "enrol no": 24002200000000.0,
+        "name": "MESARA DEEP VIJAYKUMAR",
+        "roll no": 221,
+        "marks": "18"
+    },
+    {
+        "id": 27,
+        "enrol no": 24002200000000.0,
+        "name": "ODEDRA VIJAY BHARATBHAI",
+        "roll no": 40,
+        "marks": "21.5"
+    },
+    {
+        "id": 28,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL YUGKUMAR BHARATBHAI",
+        "roll no": 300,
+        "marks": "17"
+    },
+    {
+        "id": 29,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL NIVA PIYUSH",
+        "roll no": 29,
+        "marks": "20"
+    },
+    {
+        "id": 30,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL MAHI SAMIR",
+        "roll no": 61,
+        "marks": "21"
+    },
+    {
+        "id": 31,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL VRAJ VINAYKUMAR",
+        "roll no": 245,
+        "marks": "AB"
+    },
+    {
+        "id": 32,
+        "enrol no": 24002200000000.0,
+        "name": "POSHIYA DARSHIT MANSUKHBHAI",
+        "roll no": 112,
+        "marks": "19.5"
+    },
+    {
+        "id": 33,
+        "enrol no": 24002200000000.0,
+        "name": "PRAJWAL NANDISH KUBASAD",
+        "roll no": 194,
+        "marks": "15"
+    },
+    {
+        "id": 34,
+        "enrol no": 24002200000000.0,
+        "name": "RAJJA YOG ASHOKBHAI",
+        "roll no": 250,
+        "marks": "13"
+    },
+    {
+        "id": 35,
+        "enrol no": 24002200000000.0,
+        "name": "SARVAIYA VISHW HARESHKUMAR",
+        "roll no": 171,
+        "marks": "17"
+    },
+    {
+        "id": 36,
+        "enrol no": 24002200000000.0,
+        "name": "SATANI KRUPABEN SUBHASHBHAI",
+        "roll no": 102,
+        "marks": "21.5"
+    },
+    {
+        "id": 37,
+        "enrol no": 24002200000000.0,
+        "name": "SHAH ATHARVA NAVEENKUMAR",
+        "roll no": 156,
+        "marks": "12.5"
+    },
+    {
+        "id": 38,
+        "enrol no": 24002200000000.0,
+        "name": "SINDHI AMAN KASAMBHAI",
+        "roll no": 163,
+        "marks": "15.5"
+    },
+    {
+        "id": 39,
+        "enrol no": 24002200000000.0,
+        "name": "SOLANKI KRISHNARAJSINH JAYENDRASINH",
+        "roll no": 179,
+        "marks": "21.5"
+    },
+    {
+        "id": 40,
+        "enrol no": 24002200000000.0,
+        "name": "TUVAR PRATHAMSINH KIRITSINH",
+        "roll no": 260,
+        "marks": "11.5"
+    },
+    {
+        "id": 41,
+        "enrol no": 24002200000000.0,
+        "name": "VADDORIYA NEEL CHIRAGBHAI",
+        "roll no": 186,
+        "marks": "20"
+    },
+    {
+        "id": 42,
+        "enrol no": 24002200000000.0,
+        "name": "VAGHELA JEET MAHESHBHAI",
+        "roll no": 139,
+        "marks": "18"
+    },
+    {
+        "id": 43,
+        "enrol no": 24002200000000.0,
+        "name": "VIROLIYA TANVI MAHENDRABHAI",
+        "roll no": 77,
+        "marks": "20"
+    },
+    {
+        "id": 44,
+        "enrol no": 24002200000000.0,
+        "name": "YUG RAKESH NANAVATI",
+        "roll no": 89,
+        "marks": "17"
+    },
+    {
+        "id": 45,
+        "enrol no": 24002200000000.0,
+        "name": "ZALA KUMARPALSINH MAHENDRASINH",
+        "roll no": 85,
+        "marks": "19"
+    },
+    {
+        "id": 46,
+        "enrol no": 25002200000000.0,
+        "name": "ACHARYA ARYAN PANKAJKUMAR",
+        "roll no": 287,
+        "marks": "11"
+    },
+    {
+        "id": 47,
+        "enrol no": 25002200000000.0,
+        "name": "BHARDVA SHUBHAM RAJESHBHAI",
+        "roll no": 285,
+        "marks": "12"
+    },
+    {
+        "id": 48,
+        "enrol no": 25002200000000.0,
+        "name": "BHIMANI NEEL SANJAYBHAI",
+        "roll no": 279,
+        "marks": "13"
+    },
+    {
+        "id": 49,
+        "enrol no": 25002200000000.0,
+        "name": "BUTANI REEM AMRUTLAL",
+        "roll no": 246,
+        "marks": "18"
+    },
+    {
+        "id": 50,
+        "enrol no": 25002200000000.0,
+        "name": "VRAJ DAXINI",
+        "roll no": 275,
+        "marks": "14"
+    },
+    {
+        "id": 51,
+        "enrol no": 25002200000000.0,
+        "name": "DHULESIA ANSH BHAVESHKUMAR",
+        "roll no": 298,
+        "marks": "12.5"
+    },
+    {
+        "id": 52,
+        "enrol no": 25002200000000.0,
+        "name": "FAFAL VAISHALEE PETHRAJBHAI",
+        "roll no": 302,
+        "marks": "9"
+    },
+    {
+        "id": 53,
+        "enrol no": 25002200000000.0,
+        "name": "GAJIPARA PRIYA NARENDRABHAI",
+        "roll no": 251,
+        "marks": "20"
+    },
+    {
+        "id": 54,
+        "enrol no": 25002200000000.0,
+        "name": "MACHCHHAR VYOM KAUSHAL",
+        "roll no": 258,
+        "marks": "17.5"
+    },
+    {
+        "id": 55,
+        "enrol no": 25002200000000.0,
+        "name": "MAKWANA JIGNESH MUNNABHAI",
+        "roll no": 304,
+        "marks": "AB"
+    },
+    {
+        "id": 56,
+        "enrol no": 25002200000000.0,
+        "name": "MUKHOPADHYAY NEEL PRABIR",
+        "roll no": 303,
+        "marks": "AB"
+    },
+    {
+        "id": 57,
+        "enrol no": 25002200000000.0,
+        "name": "NIKHIL VINAYKUMAR KOLADIA",
+        "roll no": 125,
+        "marks": "21"
+    },
+    {
+        "id": 58,
+        "enrol no": 25002200000000.0,
+        "name": "NILAY VYAS",
+        "roll no": 289,
+        "marks": "19"
+    },
+    {
+        "id": 59,
+        "enrol no": 25002200000000.0,
+        "name": "PANCHAL JANVI ASHWINBHAI",
+        "roll no": 203,
+        "marks": "17"
+    },
+    {
+        "id": 60,
+        "enrol no": 25002200000000.0,
+        "name": "PATEL PUJAN DIPAKBHAI",
+        "roll no": 206,
+        "marks": "18.5"
+    },
+    {
+        "id": 61,
+        "enrol no": 25002200000000.0,
+        "name": "PATEL VRUNDA BIRENKUMAR",
+        "roll no": 189,
+        "marks": "18.5"
+    },
+    {
+        "id": 62,
+        "enrol no": 25002200000000.0,
+        "name": "PATIL BHAVIN RAVINDRA",
+        "roll no": 237,
+        "marks": "21"
+    },
+    {
+        "id": 63,
+        "enrol no": 25002200000000.0,
+        "name": "PRAJAPATI DHRUV RAJNIJKANTBHAI",
+        "roll no": 293,
+        "marks": "14"
+    },
+    {
+        "id": 64,
+        "enrol no": 25002200000000.0,
+        "name": "QURESHI SAFWAN MOHAMMED SALIM",
+        "roll no": 234,
+        "marks": "16"
+    },
+    {
+        "id": 65,
+        "enrol no": 25002200000000.0,
+        "name": "RATHOD ANIRUDDH HITESHBHAI",
+        "roll no": 270,
+        "marks": "14"
+    },
+    {
+        "id": 66,
+        "enrol no": 25002200000000.0,
+        "name": "RATHOD KAUSHAL ASHOKBHAI",
+        "roll no": 301,
+        "marks": "5.5"
+    },
+    {
+        "id": 67,
+        "enrol no": 25002200000000.0,
+        "name": "SHAH YASH AMITBHAI",
+        "roll no": 286,
+        "marks": "12"
+    },
+    {
+        "id": 68,
+        "enrol no": 25002200000000.0,
+        "name": "SHIRA PARIN PARESHBHAI",
+        "roll no": 175,
+        "marks": "21.5"
+    },
+    {
+        "id": 69,
+        "enrol no": 25002200000000.0,
+        "name": "SOLANKI DHAVAL DEVATBHAI",
+        "roll no": 205,
+        "marks": "13"
+    },
+    {
+        "id": 70,
+        "enrol no": 25002200000000.0,
+        "name": "SONI DHRUVI PIYUSHBHAI",
+        "roll no": 296,
+        "marks": "15.5"
+    },
+    {
+        "id": 71,
+        "enrol no": 25002200000000.0,
+        "name": "THAKER DHRUVIL RAHUL",
+        "roll no": 295,
+        "marks": "18.5"
+    },
+    {
+        "id": 72,
+        "enrol no": 25002200000000.0,
+        "name": "THORIYA HELI PIYUSHBHAI",
+        "roll no": 282,
+        "marks": "14.5"
+    },
+    {
+        "id": 73,
+        "enrol no": 25002200000000.0,
+        "name": "VAKIL MOHAMED ZAID SHAHNAWAZ",
+        "roll no": 278,
+        "marks": "10.5"
+    },
+    {
+        "id": 74,
+        "enrol no": 25002200000000.0,
+        "name": "VANSHI CHOKSHI",
+        "roll no": 294,
+        "marks": "13"
+    },
+    {
+        "id": 75,
+        "enrol no": 25002200000000.0,
+        "name": "VORA MOHAMMADRAYHAN MOHAMMADJAVED",
+        "roll no": 121,
+        "marks": "18.5"
+    },
+    {
+        "id": 76,
+        "enrol no": 23002200000000.0,
+        "name": "PANCHAL SHUBH RAJNIKANT(rejoin from ODD 2024-drop student)",
+        "roll no": 172,
+        "marks": "13"
+    },
+    {
+        "id": 77,
+        "enrol no": 24002200000000.0,
+        "name": "ADROJA ANGEL ATULBHAI",
+        "roll no": 101,
+        "marks": "19"
+    },
+    {
+        "id": 78,
+        "enrol no": 24002200000000.0,
+        "name": "AGHARA SMITKUMAR NARENDRABHAI",
+        "roll no": 176,
+        "marks": "21"
+    },
+    {
+        "id": 79,
+        "enrol no": 24002200000000.0,
+        "name": "AGHARIYA MAHAMMADHUSAIN ASHIKHUSEN",
+        "roll no": 145,
+        "marks": "19"
+    },
+    {
+        "id": 80,
+        "enrol no": 24002200000000.0,
+        "name": "AHIR VEDANT MEHULBHAI",
+        "roll no": 45,
+        "marks": "20"
+    },
+    {
+        "id": 81,
+        "enrol no": 24002200000000.0,
+        "name": "AHIR MAHIPAL LALJIBHAI",
+        "roll no": 97,
+        "marks": "18"
+    },
+    {
+        "id": 82,
+        "enrol no": 24002200000000.0,
+        "name": "AMBALIYA YASHVI BHARATBHAI",
+        "roll no": 127,
+        "marks": "18"
+    },
+    {
+        "id": 83,
+        "enrol no": 24002200000000.0,
+        "name": "AMBARIYA VIVEK VIPULKUMAR",
+        "roll no": 159,
+        "marks": "15"
+    },
+    {
+        "id": 84,
+        "enrol no": 24002200000000.0,
+        "name": "ANSARI ZUBIYAH VASIMHUSAIN",
+        "roll no": 170,
+        "marks": "16"
+    },
+    {
+        "id": 85,
+        "enrol no": 24002200000000.0,
+        "name": "ANTALA TIRTH ARVINDBHAI",
+        "roll no": 80,
+        "marks": "18.5"
+    },
+    {
+        "id": 86,
+        "enrol no": 24002200000000.0,
+        "name": "ASODIYA MIHIR VASANTKUMAR",
+        "roll no": 133,
+        "marks": "16"
+    },
+    {
+        "id": 87,
+        "enrol no": 24002200000000.0,
+        "name": "BABARIYA DAKSH DHARMESHBHAI",
+        "roll no": 242,
+        "marks": "19.5"
+    },
+    {
+        "id": 88,
+        "enrol no": 24002200000000.0,
+        "name": "BAVARVA KUSH JAGDISHBHAI",
+        "roll no": 230,
+        "marks": "11"
+    },
+    {
+        "id": 89,
+        "enrol no": 24002200000000.0,
+        "name": "BELANI TIRTH PRAKASHKUMAR",
+        "roll no": 257,
+        "marks": "17"
+    },
+    {
+        "id": 90,
+        "enrol no": 24002200000000.0,
+        "name": "BHALANI PRUSHTI CHETANBHAI",
+        "roll no": 129,
+        "marks": "20.5"
+    },
+    {
+        "id": 91,
+        "enrol no": 24002200000000.0,
+        "name": "BHANDERI HENISH HARESHBHAI",
+        "roll no": 119,
+        "marks": "11"
+    },
+    {
+        "id": 92,
+        "enrol no": 24002200000000.0,
+        "name": "BHANKHODIYA LAXMAN ASHOKBHAI",
+        "roll no": 262,
+        "marks": "15"
+    },
+    {
+        "id": 93,
+        "enrol no": 24002200000000.0,
+        "name": "BHANOTAR JAY SURESHBHAI",
+        "roll no": 195,
+        "marks": "22"
+    },
+    {
+        "id": 94,
+        "enrol no": 24002200000000.0,
+        "name": "BHARODIYA HET SANJAYBHAI",
+        "roll no": 123,
+        "marks": "18"
+    },
+    {
+        "id": 95,
+        "enrol no": 24002200000000.0,
+        "name": "BHINGRADIYA LAKSH LALITBHAI",
+        "roll no": 134,
+        "marks": "20"
+    },
+    {
+        "id": 96,
+        "enrol no": 24002200000000.0,
+        "name": "BHOLA MANSI NANUBHAI",
+        "roll no": 226,
+        "marks": "18.5"
+    },
+    {
+        "id": 97,
+        "enrol no": 24002200000000.0,
+        "name": "BHUTKA NIDHI DINESHBHAI",
+        "roll no": 73,
+        "marks": "23"
+    },
+    {
+        "id": 98,
+        "enrol no": 24002200000000.0,
+        "name": "BHUVA JAY VIPULBHAI",
+        "roll no": 152,
+        "marks": "18"
+    },
+    {
+        "id": 99,
+        "enrol no": 24002200000000.0,
+        "name": "BHUVA KRISH JAYESHBHAI",
+        "roll no": 87,
+        "marks": "20"
+    },
+    {
+        "id": 100,
+        "enrol no": 24002200000000.0,
+        "name": "BORAD PARTH ARVINDBHAI",
+        "roll no": 17,
+        "marks": "25"
+    },
+    {
+        "id": 101,
+        "enrol no": 24002200000000.0,
+        "name": "BORAD JENSI PARESHBHAI",
+        "roll no": 173,
+        "marks": "19"
+    },
+    {
+        "id": 102,
+        "enrol no": 24002200000000.0,
+        "name": "CHAUHAN JAINIL NILESHBHAI",
+        "roll no": 44,
+        "marks": "20"
+    },
+    {
+        "id": 103,
+        "enrol no": 24002200000000.0,
+        "name": "CHAUHAN ANIRUDH RAJESHKUMAR",
+        "roll no": 164,
+        "marks": "20"
+    },
+    {
+        "id": 104,
+        "enrol no": 24002200000000.0,
+        "name": "CHAUHAN YUG KISHORBHAI",
+        "roll no": 256,
+        "marks": "15.5"
+    },
+    {
+        "id": 105,
+        "enrol no": 24002200000000.0,
+        "name": "CHAVDA OM PRAKASHKUMAR",
+        "roll no": 151,
+        "marks": "21"
+    },
+    {
+        "id": 106,
+        "enrol no": 24002200000000.0,
+        "name": "CHUNDAWAT INDRAKSHI KIRTI PRATAP",
+        "roll no": 178,
+        "marks": "13"
+    },
+    {
+        "id": 107,
+        "enrol no": 24002200000000.0,
+        "name": "DHAMELIYA DIRVA DEVENDRABHAI",
+        "roll no": 67,
+        "marks": "21"
+    },
+    {
+        "id": 108,
+        "enrol no": 24002200000000.0,
+        "name": "DHORAJIYA PARTH PARESHBHAI",
+        "roll no": 122,
+        "marks": "20"
+    },
+    {
+        "id": 109,
+        "enrol no": 24002200000000.0,
+        "name": "DOBARIYA FORAM HASMUKHBHAI",
+        "roll no": 261,
+        "marks": "13"
+    },
+    {
+        "id": 110,
+        "enrol no": 24002200000000.0,
+        "name": "DOBARIYA SWAYAM CHANDUBHAI",
+        "roll no": 216,
+        "marks": "15"
+    },
+    {
+        "id": 111,
+        "enrol no": 24002200000000.0,
+        "name": "DOBARIYA AKASH PRAFULLBHAI",
+        "roll no": 94,
+        "marks": "20"
+    },
+    {
+        "id": 112,
+        "enrol no": 24002200000000.0,
+        "name": "DODIYA KALP JIGAR",
+        "roll no": 120,
+        "marks": "20"
+    },
+    {
+        "id": 113,
+        "enrol no": 24002200000000.0,
+        "name": "DUDHAT RAJ KAMLESHBHAI",
+        "roll no": 144,
+        "marks": "23.5"
+    },
+    {
+        "id": 114,
+        "enrol no": 24002200000000.0,
+        "name": "GAJJAR RAHUL VIMALBHAI",
+        "roll no": 217,
+        "marks": "16"
+    },
+    {
+        "id": 115,
+        "enrol no": 24002200000000.0,
+        "name": "GHINAIYA DEVANSHU KISHORBHAI",
+        "roll no": 197,
+        "marks": "17"
+    },
+    {
+        "id": 116,
+        "enrol no": 24002200000000.0,
+        "name": "GOHEL SUMIT KANAIYALAL",
+        "roll no": 142,
+        "marks": "19"
+    },
+    {
+        "id": 117,
+        "enrol no": 24002200000000.0,
+        "name": "GOHIL MAHIR KIRTIBHAI",
+        "roll no": 222,
+        "marks": "19"
+    },
+    {
+        "id": 118,
+        "enrol no": 24002200000000.0,
+        "name": "GOJARIYA MEET VIPULBHAI",
+        "roll no": 58,
+        "marks": "19"
+    },
+    {
+        "id": 119,
+        "enrol no": 24002200000000.0,
+        "name": "GONDALIYA NAIMISH BHARATBHAI",
+        "roll no": 126,
+        "marks": "16"
+    },
+    {
+        "id": 120,
+        "enrol no": 24002200000000.0,
+        "name": "GORSIYA SALONI HARSHADBHAI",
+        "roll no": 90,
+        "marks": "23"
+    },
+    {
+        "id": 121,
+        "enrol no": 24002200000000.0,
+        "name": "GOSWAMI YASHBHARTHI CHANDRESHBHARTHI",
+        "roll no": 70,
+        "marks": "18"
+    },
+    {
+        "id": 122,
+        "enrol no": 24002200000000.0,
+        "name": "GOTHI CHINTAN UPENDRABHAI",
+        "roll no": 181,
+        "marks": "22"
+    },
+    {
+        "id": 123,
+        "enrol no": 24002200000000.0,
+        "name": "GOYANI VED JAGDISHBHAI",
+        "roll no": 161,
+        "marks": "15"
+    },
+    {
+        "id": 124,
+        "enrol no": 24002200000000.0,
+        "name": "GUDALIYA RUTVIK JAYANTILAL",
+        "roll no": 75,
+        "marks": "18"
+    },
+    {
+        "id": 125,
+        "enrol no": 24002200000000.0,
+        "name": "HARANI DHRUV JITESH",
+        "roll no": 49,
+        "marks": "20"
+    },
+    {
+        "id": 126,
+        "enrol no": 24002200000000.0,
+        "name": "HAWAWALA FARHEEN MOIN",
+        "roll no": 22,
+        "marks": "20"
+    },
+    {
+        "id": 127,
+        "enrol no": 24002200000000.0,
+        "name": "HENIL RAIYANI",
+        "roll no": 62,
+        "marks": "21"
+    },
+    {
+        "id": 128,
+        "enrol no": 24002200000000.0,
+        "name": "HIRAPARA PARTH GHANSHYAMBHAI",
+        "roll no": 268,
+        "marks": "12"
+    },
+    {
+        "id": 129,
+        "enrol no": 24002200000000.0,
+        "name": "JADAV ARJUN DILUBHAI",
+        "roll no": 100,
+        "marks": "17"
+    },
+    {
+        "id": 130,
+        "enrol no": 24002200000000.0,
+        "name": "JADAV ROSHANIBEN RAMESHBHAI",
+        "roll no": 211,
+        "marks": "19"
+    },
+    {
+        "id": 131,
+        "enrol no": 24002200000000.0,
+        "name": "JADEJA SATYAJEETSINH BHAGIRATHSINH",
+        "roll no": 42,
+        "marks": "17.5"
+    },
+    {
+        "id": 132,
+        "enrol no": 24002200000000.0,
+        "name": "JAIN BHAVYA SANJAYBHAI",
+        "roll no": 57,
+        "marks": "18.5"
+    },
+    {
+        "id": 133,
+        "enrol no": 24002200000000.0,
+        "name": "JAIN PRANAY ANILKUMAR",
+        "roll no": 6,
+        "marks": "19"
+    },
+    {
+        "id": 134,
+        "enrol no": 24002200000000.0,
+        "name": "JAIN MEET ABHISHEK",
+        "roll no": 114,
+        "marks": "21"
+    },
+    {
+        "id": 135,
+        "enrol no": 24002200000000.0,
+        "name": "JAIN SUHANI PANKAJKUMAR",
+        "roll no": 31,
+        "marks": "21"
+    },
+    {
+        "id": 136,
+        "enrol no": 24002200000000.0,
+        "name": "JATIN SETH",
+        "roll no": 55,
+        "marks": "21"
+    },
+    {
+        "id": 137,
+        "enrol no": 24002200000000.0,
+        "name": "JAVADE NETRA HEMANTBHAI",
+        "roll no": 153,
+        "marks": "14"
+    },
+    {
+        "id": 138,
+        "enrol no": 24002200000000.0,
+        "name": "JAVIYA DIYA VIMALBHAI",
+        "roll no": 43,
+        "marks": "19"
+    },
+    {
+        "id": 139,
+        "enrol no": 24002200000000.0,
+        "name": "JETPARIYA PRINCE DEVKRUSHNABHAI",
+        "roll no": 200,
+        "marks": "13"
+    },
+    {
+        "id": 140,
+        "enrol no": 24002200000000.0,
+        "name": "JIYA PIYUSHKUMAR GOVANI",
+        "roll no": 9,
+        "marks": "18"
+    },
+    {
+        "id": 141,
+        "enrol no": 24002200000000.0,
+        "name": "JOTANIA VRUND DILESHBHAI",
+        "roll no": 30,
+        "marks": "20"
+    },
+    {
+        "id": 142,
+        "enrol no": 24002200000000.0,
+        "name": "KADIA MAHI DHRUV",
+        "roll no": 130,
+        "marks": "19"
+    },
+    {
+        "id": 143,
+        "enrol no": 24002200000000.0,
+        "name": "KAKADIYA PRANT DIPAKBHAI",
+        "roll no": 219,
+        "marks": "13"
+    },
+    {
+        "id": 144,
+        "enrol no": 24002200000000.0,
+        "name": "KAKANI NIHARKUMAR KISHORBHAI",
+        "roll no": 5,
+        "marks": "23"
+    },
+    {
+        "id": 145,
+        "enrol no": 24002200000000.0,
+        "name": "KANDORIYA JAYDIP ARVINDBHAI",
+        "roll no": 109,
+        "marks": "14.5"
+    },
+    {
+        "id": 146,
+        "enrol no": 24002200000000.0,
+        "name": "KANTH AAYUSH RAJIV",
+        "roll no": 38,
+        "marks": "17"
+    },
+    {
+        "id": 147,
+        "enrol no": 24002200000000.0,
+        "name": "KANZARIYA JAYKUMAR HARSHADBHAI",
+        "roll no": 158,
+        "marks": "21.5"
+    },
+    {
+        "id": 148,
+        "enrol no": 24002200000000.0,
+        "name": "KESUR SAUMYA SANJAYKUMAR",
+        "roll no": 25,
+        "marks": "20"
+    },
+    {
+        "id": 149,
+        "enrol no": 24002200000000.0,
+        "name": "KHAMAR YAJASH SHARVILKUMAR",
+        "roll no": 11,
+        "marks": "19.5"
+    },
+    {
+        "id": 150,
+        "enrol no": 24002200000000.0,
+        "name": "KHANJADA FAIZAN UMIDKHAN",
+        "roll no": 56,
+        "marks": "21"
+    },
+    {
+        "id": 151,
+        "enrol no": 24002200000000.0,
+        "name": "KHATRI MOHMADKAIF ABDULRAZAK",
+        "roll no": 92,
+        "marks": "12"
+    },
+    {
+        "id": 152,
+        "enrol no": 24002200000000.0,
+        "name": "KHATWALA NEEL JAYESH",
+        "roll no": 69,
+        "marks": "23"
+    },
+    {
+        "id": 153,
+        "enrol no": 24002200000000.0,
+        "name": "KIRI SUJALKUMAR URVISHKUMAR",
+        "roll no": 37,
+        "marks": "22"
+    },
+    {
+        "id": 154,
+        "enrol no": 24002200000000.0,
+        "name": "KOPATEL TUSHAR GHANSHYAMBHAI",
+        "roll no": 277,
+        "marks": "9"
+    },
+    {
+        "id": 155,
+        "enrol no": 24002200000000.0,
+        "name": "KOYANI YUG KETANBHAI",
+        "roll no": 168,
+        "marks": "14"
+    },
+    {
+        "id": 156,
+        "enrol no": 24002200000000.0,
+        "name": "LIMBASIYA AYUSHKUMAR CHAMPAKBHAI",
+        "roll no": 235,
+        "marks": "10"
+    },
+    {
+        "id": 157,
+        "enrol no": 24002200000000.0,
+        "name": "MANAV RAKHOLIYA",
+        "roll no": 141,
+        "marks": "18.5"
+    },
+    {
+        "id": 158,
+        "enrol no": 24002200000000.0,
+        "name": "MANDANI JASH BATUKBHAI",
+        "roll no": 66,
+        "marks": "21"
+    },
+    {
+        "id": 159,
+        "enrol no": 24002200000000.0,
+        "name": "MANKU RAJDEEPSINGH RAGHUVIRSINGH",
+        "roll no": 116,
+        "marks": "20"
+    },
+    {
+        "id": 160,
+        "enrol no": 24002200000000.0,
+        "name": "MARU ARYA PANKAJBHAI",
+        "roll no": 210,
+        "marks": "16"
+    },
+    {
+        "id": 161,
+        "enrol no": 24002200000000.0,
+        "name": "MEGHA NISHTHA JIGNESHKUMAR",
+        "roll no": 32,
+        "marks": "20"
+    },
+    {
+        "id": 162,
+        "enrol no": 24002200000000.0,
+        "name": "MEHTA DHVANI TEJASHKUMAR",
+        "roll no": 52,
+        "marks": "23"
+    },
+    {
+        "id": 163,
+        "enrol no": 24002200000000.0,
+        "name": "MERULIYA OM HARESHBHAI",
+        "roll no": 212,
+        "marks": "21"
+    },
+    {
+        "id": 164,
+        "enrol no": 24002200000000.0,
+        "name": "MOKARIYA SANJAY DEVAYAT",
+        "roll no": 131,
+        "marks": "18.5"
+    },
+    {
+        "id": 165,
+        "enrol no": 24002200000000.0,
+        "name": "MORI SHREYANSH MAHENDRA",
+        "roll no": 207,
+        "marks": "18"
+    },
+    {
+        "id": 166,
+        "enrol no": 24002200000000.0,
+        "name": "MOTKA DARSHAN SURYAKANTBHAI",
+        "roll no": 117,
+        "marks": "19.5"
+    },
+    {
+        "id": 167,
+        "enrol no": 24002200000000.0,
+        "name": "MUKHI QIRAT MUSTAKAHMAD",
+        "roll no": 27,
+        "marks": "22.5"
+    },
+    {
+        "id": 168,
+        "enrol no": 24002200000000.0,
+        "name": "MUNGALPARA YASHBHAI PARESHBHAI",
+        "roll no": 107,
+        "marks": "18"
+    },
+    {
+        "id": 169,
+        "enrol no": 24002200000000.0,
+        "name": "MUSABJI JEHAN RIYAJALI",
+        "roll no": 104,
+        "marks": "20"
+    },
+    {
+        "id": 170,
+        "enrol no": 24002200000000.0,
+        "name": "NAKUM ANJANSINH HIRENKUMAR",
+        "roll no": 180,
+        "marks": "19.5"
+    },
+    {
+        "id": 171,
+        "enrol no": 24002200000000.0,
+        "name": "NAKUM KHUSHBU RAMESHBHAI",
+        "roll no": 135,
+        "marks": "22"
+    },
+    {
+        "id": 172,
+        "enrol no": 24002200000000.0,
+        "name": "NAVADIYA YAGNIK RAJUBHAI",
+        "roll no": 218,
+        "marks": "19"
+    },
+    {
+        "id": 173,
+        "enrol no": 24002200000000.0,
+        "name": "OGANJA YASH SURESHBHAI",
+        "roll no": 84,
+        "marks": "18"
+    },
+    {
+        "id": 174,
+        "enrol no": 24002200000000.0,
+        "name": "PANCHAL DHARMIL SHAILESHKUMAR",
+        "roll no": 14,
+        "marks": "18.5"
+    },
+    {
+        "id": 175,
+        "enrol no": 24002200000000.0,
+        "name": "PANCHAL DAX VIJAYBHAI",
+        "roll no": 78,
+        "marks": "19"
+    },
+    {
+        "id": 176,
+        "enrol no": 24002200000000.0,
+        "name": "PANCHAL KRISH YOGESHBHAI",
+        "roll no": 18,
+        "marks": "20"
+    },
+    {
+        "id": 177,
+        "enrol no": 24002200000000.0,
+        "name": "PANCHAL VINIT SANJAYBHAI",
+        "roll no": 95,
+        "marks": "22"
+    },
+    {
+        "id": 178,
+        "enrol no": 24002200000000.0,
+        "name": "PANCHAL KAVYA KETANBHAI",
+        "roll no": 63,
+        "marks": "21"
+    },
+    {
+        "id": 179,
+        "enrol no": 24002200000000.0,
+        "name": "PANCHAL JAYMIN PRAVINBHAI",
+        "roll no": 93,
+        "marks": "16"
+    },
+    {
+        "id": 180,
+        "enrol no": 24002200000000.0,
+        "name": "PANCHANI KUNJ YATINBHAI",
+        "roll no": 305,
+        "marks": "1"
+    },
+    {
+        "id": 181,
+        "enrol no": 24002200000000.0,
+        "name": "PANDYA YASH VIJAYKUMAR",
+        "roll no": 143,
+        "marks": "17.5"
+    },
+    {
+        "id": 182,
+        "enrol no": 24002200000000.0,
+        "name": "PANSARA SANKET PRAVINBHAI",
+        "roll no": 72,
+        "marks": "22"
+    },
+    {
+        "id": 183,
+        "enrol no": 24002200000000.0,
+        "name": "PARIKH TIRTH RAM",
+        "roll no": 265,
+        "marks": "17"
+    },
+    {
+        "id": 184,
+        "enrol no": 24002200000000.0,
+        "name": "PARMAR ANIKET BHAVESHBHAI",
+        "roll no": 263,
+        "marks": "16"
+    },
+    {
+        "id": 185,
+        "enrol no": 24002200000000.0,
+        "name": "PARMAR UMANG ASHOKBHAI",
+        "roll no": 201,
+        "marks": "13.5"
+    },
+    {
+        "id": 186,
+        "enrol no": 24002200000000.0,
+        "name": "PARMAR ANANDKUMAR MAHENDRABHAI",
+        "roll no": 276,
+        "marks": "17"
+    },
+    {
+        "id": 187,
+        "enrol no": 24002200000000.0,
+        "name": "PARMAR HARSHKUMAR SANJAYBHAI",
+        "roll no": 21,
+        "marks": "18"
+    },
+    {
+        "id": 188,
+        "enrol no": 24002200000000.0,
+        "name": "PARSANA MEET NITINBHAI",
+        "roll no": 59,
+        "marks": "20"
+    },
+    {
+        "id": 189,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL PRIANSHEE ARVINDBHAI",
+        "roll no": 106,
+        "marks": "19.5"
+    },
+    {
+        "id": 190,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL JIMIT DINESHBHAI",
+        "roll no": 7,
+        "marks": "20.5"
+    },
+    {
+        "id": 191,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL KRISH ALKESHBHAI",
+        "roll no": 236,
+        "marks": "17"
+    },
+    {
+        "id": 192,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL DHYAN VANITKUMAR",
+        "roll no": 96,
+        "marks": "20"
+    },
+    {
+        "id": 193,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL SHYAM BHARATBHAI",
+        "roll no": 118,
+        "marks": "15.5"
+    },
+    {
+        "id": 194,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL VRAJ MANESHKUMAR",
+        "roll no": 47,
+        "marks": "20"
+    },
+    {
+        "id": 195,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL PAVAN KAMLESHBHAI",
+        "roll no": 124,
+        "marks": "18"
+    },
+    {
+        "id": 196,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL ARYA VIPULKUMAR",
+        "roll no": 26,
+        "marks": "19"
+    },
+    {
+        "id": 197,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL SHLOK UMESH",
+        "roll no": 79,
+        "marks": "21"
+    },
+    {
+        "id": 198,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL MANN SANDIPKUMAR",
+        "roll no": 15,
+        "marks": "22.5"
+    },
+    {
+        "id": 199,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL HEMIL VINODKUMAR",
+        "roll no": 50,
+        "marks": "20"
+    },
+    {
+        "id": 200,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL LIMSI KAMLESHKUMAR",
+        "roll no": 225,
+        "marks": "20"
+    },
+    {
+        "id": 201,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL NEELKUMAR YOGESHBHAI",
+        "roll no": 269,
+        "marks": "11"
+    },
+    {
+        "id": 202,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL HITKUMAR VINODBHAI",
+        "roll no": 140,
+        "marks": "19"
+    },
+    {
+        "id": 203,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL VRAJ VIJAYBHAI",
+        "roll no": 264,
+        "marks": "19"
+    },
+    {
+        "id": 204,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL JALP PRASHANTBHAI",
+        "roll no": 162,
+        "marks": "15"
+    },
+    {
+        "id": 205,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL VRAJ BHIKHABHAI",
+        "roll no": 3,
+        "marks": "20"
+    },
+    {
+        "id": 206,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL SMITKUMAR DINESHBHAI",
+        "roll no": 239,
+        "marks": "15"
+    },
+    {
+        "id": 207,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL MANSHI ASHWINBHAI",
+        "roll no": 132,
+        "marks": "16"
+    },
+    {
+        "id": 208,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL SAHIL RAJESHBHAI",
+        "roll no": 167,
+        "marks": "15"
+    },
+    {
+        "id": 209,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL SRUSTI DEEPAK",
+        "roll no": 2,
+        "marks": "20"
+    },
+    {
+        "id": 210,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL NEEL BIPINKUMAR",
+        "roll no": 39,
+        "marks": "21"
+    },
+    {
+        "id": 211,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL DEV PRAGNESHBHAI",
+        "roll no": 81,
+        "marks": "19"
+    },
+    {
+        "id": 212,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL SMIT KINJALBHAI",
+        "roll no": 88,
+        "marks": "16"
+    },
+    {
+        "id": 213,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL HANI VASANTBHAI",
+        "roll no": 115,
+        "marks": "18"
+    },
+    {
+        "id": 214,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL VED DINESHKUMAR",
+        "roll no": 174,
+        "marks": "17"
+    },
+    {
+        "id": 215,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL MITESH GHANSHYAMBHAI",
+        "roll no": 1,
+        "marks": "24"
+    },
+    {
+        "id": 216,
+        "enrol no": 24002200000000.0,
+        "name": "PATEL MAHIN MANISHKUMAR",
+        "roll no": 196,
+        "marks": "21"
+    },
+    {
+        "id": 217,
+        "enrol no": 24002200000000.0,
+        "name": "PATHAN SARHANKHAN FIROZKHAN",
+        "roll no": 53,
+        "marks": "20"
+    },
+    {
+        "id": 218,
+        "enrol no": 24002200000000.0,
+        "name": "PATOLIYA JEMS NILESHBHAI",
+        "roll no": 28,
+        "marks": "19"
+    },
+    {
+        "id": 219,
+        "enrol no": 24002200000000.0,
+        "name": "PATOLIYA ANSH AMITBHAI",
+        "roll no": 19,
+        "marks": "15.5"
+    },
+    {
+        "id": 220,
+        "enrol no": 24002200000000.0,
+        "name": "PIDHADIYA DIKSHA PANKAJBHAI",
+        "roll no": 48,
+        "marks": "23"
+    },
+    {
+        "id": 221,
+        "enrol no": 24002200000000.0,
+        "name": "PITHVA PARTHIV DEVENDRABHAI",
+        "roll no": 228,
+        "marks": "9"
+    },
+    {
+        "id": 222,
+        "enrol no": 24002200000000.0,
+        "name": "POLARA RIYAN ANISHBHAI",
+        "roll no": 213,
+        "marks": "14"
+    },
+    {
+        "id": 223,
+        "enrol no": 24002200000000.0,
+        "name": "PRAJAPATI SUJAL BHARATBHAI",
+        "roll no": 103,
+        "marks": "19"
+    },
+    {
+        "id": 224,
+        "enrol no": 24002200000000.0,
+        "name": "RABADIYA PRITKUMAR PARESHBHAI",
+        "roll no": 209,
+        "marks": "15.5"
+    },
+    {
+        "id": 225,
+        "enrol no": 24002200000000.0,
+        "name": "RAHUL LUMBHANI",
+        "roll no": 16,
+        "marks": "20"
+    },
+    {
+        "id": 226,
+        "enrol no": 24002200000000.0,
+        "name": "RAIYANI KRISH CHETANBHAI",
+        "roll no": 191,
+        "marks": "17.5"
+    },
+    {
+        "id": 227,
+        "enrol no": 24002200000000.0,
+        "name": "RAMANI VISHVAM KISHORBHAI",
+        "roll no": 177,
+        "marks": "20"
+    },
+    {
+        "id": 228,
+        "enrol no": 24002200000000.0,
+        "name": "RANPARIYA KAVYA VIPULBHAI",
+        "roll no": 71,
+        "marks": "19"
+    },
+    {
+        "id": 229,
+        "enrol no": 24002200000000.0,
+        "name": "SAIYED ABDULAHAD MOHAMMADMUSTUFAABID",
+        "roll no": 46,
+        "marks": "22"
+    },
+    {
+        "id": 230,
+        "enrol no": 24002200000000.0,
+        "name": "SANGANI POOJAN KAMLESHBHAI",
+        "roll no": 291,
+        "marks": "1"
+    },
+    {
+        "id": 231,
+        "enrol no": 24002200000000.0,
+        "name": "SARADVA YATRI PRAVINBHAI",
+        "roll no": 182,
+        "marks": "15.5"
+    },
+    {
+        "id": 232,
+        "enrol no": 24002200000000.0,
+        "name": "SAVALIYA KRISH BIPINBHAI",
+        "roll no": 51,
+        "marks": "18.5"
+    },
+    {
+        "id": 233,
+        "enrol no": 24002200000000.0,
+        "name": "SAVALIYA VARSHIL KISHORBHAI",
+        "roll no": 204,
+        "marks": "14.5"
+    },
+    {
+        "id": 234,
+        "enrol no": 24002200000000.0,
+        "name": "SAVALIYA DIVYESH BHARATBHAI",
+        "roll no": 241,
+        "marks": "18"
+    },
+    {
+        "id": 235,
+        "enrol no": 24002200000000.0,
+        "name": "SAVANI YASHVI HITESHBHAI",
+        "roll no": 83,
+        "marks": "16.5"
+    },
+    {
+        "id": 236,
+        "enrol no": 24002200000000.0,
+        "name": "SENJALIYA MEET SHARADBHAI",
+        "roll no": 33,
+        "marks": "18.5"
+    },
+    {
+        "id": 237,
+        "enrol no": 24002200000000.0,
+        "name": "SHAH HARSHIL KAMLESHKUMAR",
+        "roll no": 136,
+        "marks": "20"
+    },
+    {
+        "id": 238,
+        "enrol no": 24002200000000.0,
+        "name": "SHAH JAIVAL CHIRAGBHAI",
+        "roll no": 183,
+        "marks": "14.5"
+    },
+    {
+        "id": 239,
+        "enrol no": 24002200000000.0,
+        "name": "SHAH AATMAN HARSH",
+        "roll no": 128,
+        "marks": "19"
+    },
+    {
+        "id": 240,
+        "enrol no": 24002200000000.0,
+        "name": "SHAH DHAIRYA MANISHBHAI",
+        "roll no": 82,
+        "marks": "15.5"
+    },
+    {
+        "id": 241,
+        "enrol no": 24002200000000.0,
+        "name": "SHASTRI MITANSH SHRENIK",
+        "roll no": 160,
+        "marks": "11"
+    },
+    {
+        "id": 242,
+        "enrol no": 24002200000000.0,
+        "name": "SHETH YUG MITULKUMAR",
+        "roll no": 60,
+        "marks": "22"
+    },
+    {
+        "id": 243,
+        "enrol no": 24002200000000.0,
+        "name": "SHIRA VIRAT MUKESHBHAI",
+        "roll no": 284,
+        "marks": "12.5"
+    },
+    {
+        "id": 244,
+        "enrol no": 24002200000000.0,
+        "name": "SHIYANI DARSHIL GHANSHYAMBHAI",
+        "roll no": 271,
+        "marks": "11"
+    },
+    {
+        "id": 245,
+        "enrol no": 24002200000000.0,
+        "name": "SINGH AYUSHKUMAR SANTOSH",
+        "roll no": 36,
+        "marks": "22"
+    },
+    {
+        "id": 246,
+        "enrol no": 24002200000000.0,
+        "name": "SOLANKI JEET VIJAYBHAI",
+        "roll no": 188,
+        "marks": "19.5"
+    },
+    {
+        "id": 247,
+        "enrol no": 24002200000000.0,
+        "name": "SOLANKI CHIRAG MUKESHBHAI",
+        "roll no": 155,
+        "marks": "12.5"
+    },
+    {
+        "id": 248,
+        "enrol no": 24002200000000.0,
+        "name": "SOLANKI CHINTANKUMAR MANSINHBHAI",
+        "roll no": 288,
+        "marks": "14.5"
+    },
+    {
+        "id": 249,
+        "enrol no": 24002200000000.0,
+        "name": "SOLANKI SUJALBHAI DINESHBHAI",
+        "roll no": 157,
+        "marks": "16"
+    },
+    {
+        "id": 250,
+        "enrol no": 24002200000000.0,
+        "name": "SOLANKI JAYDIP GAUTAMBHAI",
+        "roll no": 146,
+        "marks": "18.5"
+    },
+    {
+        "id": 251,
+        "enrol no": 24002200000000.0,
+        "name": "SONAGARA NIRMAL JAGDISHBHAI",
+        "roll no": 281,
+        "marks": "17"
+    },
+    {
+        "id": 252,
+        "enrol no": 24002200000000.0,
+        "name": "SUTHAR NAKSHATRA HEMANTKUMAR",
+        "roll no": 165,
+        "marks": "17.5"
+    },
+    {
+        "id": 253,
+        "enrol no": 24002200000000.0,
+        "name": "SUVAGIYA HARSHIL CHATURBHAI",
+        "roll no": 150,
+        "marks": "17.5"
+    },
+    {
+        "id": 254,
+        "enrol no": 24002200000000.0,
+        "name": "TAILOR YAX JITENDRA",
+        "roll no": 8,
+        "marks": "22"
+    },
+    {
+        "id": 255,
+        "enrol no": 24002200000000.0,
+        "name": "TALAVIYA CHINTAN HITESHKUMAR",
+        "roll no": 23,
+        "marks": "19.5"
+    },
+    {
+        "id": 256,
+        "enrol no": 24002200000000.0,
+        "name": "TARPARA KRISH PARESHBHAI",
+        "roll no": 76,
+        "marks": "22"
+    },
+    {
+        "id": 257,
+        "enrol no": 24002200000000.0,
+        "name": "THORIYA BHAVYA LAKHMANBHAI",
+        "roll no": 266,
+        "marks": "10.5"
+    },
+    {
+        "id": 258,
+        "enrol no": 24002200000000.0,
+        "name": "THUMMAR SUJAL RAKESHBHAI",
+        "roll no": 91,
+        "marks": "20.5"
+    },
+    {
+        "id": 259,
+        "enrol no": 24002200000000.0,
+        "name": "THUMMAR DHRUVIL RAJESHBHAI",
+        "roll no": 220,
+        "marks": "12"
+    },
+    {
+        "id": 260,
+        "enrol no": 24002200000000.0,
+        "name": "TRIVEDI YASHVI SHYAMAL",
+        "roll no": 20,
+        "marks": "20.5"
+    },
+    {
+        "id": 261,
+        "enrol no": 24002200000000.0,
+        "name": "VADADORIYA MANDAXI SATISHKUMAR",
+        "roll no": 111,
+        "marks": "19"
+    },
+    {
+        "id": 262,
+        "enrol no": 24002200000000.0,
+        "name": "VAGHANI SWAYAM KAUSHIKBHAI",
+        "roll no": 74,
+        "marks": "17.5"
+    },
+    {
+        "id": 263,
+        "enrol no": 24002200000000.0,
+        "name": "VAGHELA ISHIT ATULBHAI",
+        "roll no": 253,
+        "marks": "16"
+    },
+    {
+        "id": 264,
+        "enrol no": 24002200000000.0,
+        "name": "VAGHELA HARSHRAJSINH BHARATSINH",
+        "roll no": 41,
+        "marks": "19.5"
+    },
+    {
+        "id": 265,
+        "enrol no": 24002200000000.0,
+        "name": "VAIBHAV WAGHELA",
+        "roll no": 65,
+        "marks": "21.5"
+    },
+    {
+        "id": 266,
+        "enrol no": 24002200000000.0,
+        "name": "VAJARIYA DHRUVIT KALPESH",
+        "roll no": 86,
+        "marks": "18"
+    },
+    {
+        "id": 267,
+        "enrol no": 24002200000000.0,
+        "name": "VALA DHRUVKUMAR MANSINHBHAI",
+        "roll no": 208,
+        "marks": "17.5"
+    },
+    {
+        "id": 268,
+        "enrol no": 24002200000000.0,
+        "name": "VAMJA UTSAV SURESHBHAI",
+        "roll no": 154,
+        "marks": "16.5"
+    },
+    {
+        "id": 269,
+        "enrol no": 24002200000000.0,
+        "name": "VANRA DHRUVKUMAR BALVANTBHAI",
+        "roll no": 64,
+        "marks": "18.5"
+    },
+    {
+        "id": 270,
+        "enrol no": 24002200000000.0,
+        "name": "VANSH BHADVANIYA",
+        "roll no": 13,
+        "marks": "19"
+    },
+    {
+        "id": 271,
+        "enrol no": 24002200000000.0,
+        "name": "VASANI DARSHIT HIMANSHUBHAI",
+        "roll no": 254,
+        "marks": "17"
+    },
+    {
+        "id": 272,
+        "enrol no": 24002200000000.0,
+        "name": "VIJAPURA KASIMHUSAIN AKABARALI",
+        "roll no": 184,
+        "marks": "19"
+    },
+    {
+        "id": 273,
+        "enrol no": 24002200000000.0,
+        "name": "VOHRA MOHAMMEDNIHAL MOHAMMEDARIF",
+        "roll no": 12,
+        "marks": "21.5"
+    },
+    {
+        "id": 274,
+        "enrol no": 24002200000000.0,
+        "name": "VORA RISHIKUMAR RAMESHBHAI",
+        "roll no": 169,
+        "marks": "14"
+    },
+    {
+        "id": 275,
+        "enrol no": 24002200000000.0,
+        "name": "ZALA YASH ASHVINKUMAR",
+        "roll no": 215,
+        "marks": "12"
+    },
+    {
+        "id": 276,
+        "enrol no": 25002200000000.0,
+        "name": "AGRAWAL SAKSHI ANAND PRAKASH",
+        "roll no": 223,
+        "marks": "18"
+    },
+    {
+        "id": 277,
+        "enrol no": 25002200000000.0,
+        "name": "BOSAMIYA HARD MANOJBHAI",
+        "roll no": 98,
+        "marks": "11.5"
+    },
+    {
+        "id": 278,
+        "enrol no": 25002200000000.0,
+        "name": "CHAUHAN NIDHI KISHANBHAI",
+        "roll no": 190,
+        "marks": "20.5"
+    },
+    {
+        "id": 279,
+        "enrol no": 25002200000000.0,
+        "name": "CHAUHAN SARASWATI NANJIBHAI",
+        "roll no": 199,
+        "marks": "19.5"
+    },
+    {
+        "id": 280,
+        "enrol no": 25002200000000.0,
+        "name": "DODIYA DAKSH PRADIPKUMAR",
+        "roll no": 292,
+        "marks": "13.5"
+    },
+    {
+        "id": 281,
+        "enrol no": 25002200000000.0,
+        "name": "GAREJA ROSHNI DEVABHAI",
+        "roll no": 247,
+        "marks": "12.5"
+    },
+    {
+        "id": 282,
+        "enrol no": 25002200000000.0,
+        "name": "GOHEL KHUSHMAN KETAN",
+        "roll no": 274,
+        "marks": "9"
+    },
+    {
+        "id": 283,
+        "enrol no": 25002200000000.0,
+        "name": "GOHIL SAHIL VIJAYBHAI",
+        "roll no": 272,
+        "marks": "6"
+    },
+    {
+        "id": 284,
+        "enrol no": 25002200000000.0,
+        "name": "HANSALIYA PARIT VIJAYBHAI",
+        "roll no": 232,
+        "marks": "13.5"
+    },
+    {
+        "id": 285,
+        "enrol no": 25002200000000.0,
+        "name": "JOSHI OM HITESHKUMAR",
+        "roll no": 249,
+        "marks": "13"
+    },
+    {
+        "id": 286,
+        "enrol no": 25002200000000.0,
+        "name": "KAAVIN NITIN KHATRI",
+        "roll no": 280,
+        "marks": "16.5"
+    },
+    {
+        "id": 287,
+        "enrol no": 25002200000000.0,
+        "name": "LAKHANI UTSAVKUMAR PRASHANT",
+        "roll no": 290,
+        "marks": "13.5"
+    },
+    {
+        "id": 288,
+        "enrol no": 25002200000000.0,
+        "name": "LUHAR KARTIK BANSIBHAI",
+        "roll no": 110,
+        "marks": "17"
+    },
+    {
+        "id": 289,
+        "enrol no": 25002200000000.0,
+        "name": "MANYA PATEL",
+        "roll no": 255,
+        "marks": "17"
+    },
+    {
+        "id": 290,
+        "enrol no": 25002200000000.0,
+        "name": "MARU NIRANJAN ASHOK",
+        "roll no": 243,
+        "marks": "9"
+    },
+    {
+        "id": 291,
+        "enrol no": 25002200000000.0,
+        "name": "PANCHAL RIYA DEVANGBHAI",
+        "roll no": 214,
+        "marks": "18"
+    },
+    {
+        "id": 292,
+        "enrol no": 25002200000000.0,
+        "name": "PARMAR HARSHVARDHANSINH DINESHSINH",
+        "roll no": 273,
+        "marks": "13"
+    },
+    {
+        "id": 293,
+        "enrol no": 25002200000000.0,
+        "name": "PATEL HET SUNILBHAI",
+        "roll no": 99,
+        "marks": "21"
+    },
+    {
+        "id": 294,
+        "enrol no": 25002200000000.0,
+        "name": "SAINI VAISHALI ISHWAR",
+        "roll no": 231,
+        "marks": "15"
+    },
+    {
+        "id": 295,
+        "enrol no": 25002200000000.0,
+        "name": "SAVALIYA JEET SANJAYBHAI",
+        "roll no": 248,
+        "marks": "13"
+    },
+    {
+        "id": 296,
+        "enrol no": 25002200000000.0,
+        "name": "SHAH ANISH PRADIP",
+        "roll no": 224,
+        "marks": "19.5"
+    },
+    {
+        "id": 297,
+        "enrol no": 25002200000000.0,
+        "name": "SIDDIQUI AYANAM HAFIZMIYA",
+        "roll no": 198,
+        "marks": "15.5"
+    },
+    {
+        "id": 298,
+        "enrol no": 25002200000000.0,
+        "name": "SONARA SUDHANSHI VIJAYBHAI",
+        "roll no": 267,
+        "marks": "15.5"
+    },
+    {
+        "id": 299,
+        "enrol no": 25002200000000.0,
+        "name": "SUTHAR SNEH KETANKUMAR",
+        "roll no": 166,
+        "marks": "20"
+    },
+    {
+        "id": 300,
+        "enrol no": 25002200000000.0,
+        "name": "TRAPASIYA YAGNESH SHAILESHKUMAR",
+        "roll no": 148,
+        "marks": "12.5"
+    },
+    {
+        "id": 301,
+        "enrol no": 25002200000000.0,
+        "name": "TUMBADIYA MAHEK BHARAT",
+        "roll no": 244,
+        "marks": "14"
+    },
+    {
+        "id": 302,
+        "enrol no": 25002200000000.0,
+        "name": "TUVAR VEDANT JITENDRAKUMAR",
+        "roll no": 283,
+        "marks": "14"
+    },
+    {
+        "id": 303,
+        "enrol no": 25002200000000.0,
+        "name": "UPADHYAY PAVANI VYOMESH",
+        "roll no": 297,
+        "marks": "14"
+    },
+    {
+        "id": 304,
+        "enrol no": 25002200000000.0,
+        "name": "VAGHELA DHRUMIL PRAKASHKUMAR",
+        "roll no": 147,
+        "marks": "19.5"
+    }
+]
